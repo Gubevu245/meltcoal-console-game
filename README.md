@@ -2,13 +2,6 @@
 
 A 2D grid-based console game built entirely in C++. The objective of the game is to navigate the map, collect raw materials, and successfully smelt them into refined bronze using the required amount of coal. 
 
-## Features
-* **Grid-Based Movement:** Fluid player navigation using standard WASD controls.
-* **Dynamic Generation:** Ores, the smelter, and mining equipment are randomly generated across the map on each playthrough.
-* **Inventory Management:** Real-time tracking of collected Tin, Copper, and Refined Bronze.
-* **Win/Loss Conditions:** The game ends in victory once the required amount of ores are successfully smelted at the facility.
-* **Optimized Rendering:** Uses cursor repositioning to prevent console flickering during frame updates.
-
 ## Tech Stack
 * **Language:** C++
 * **IDE:** Code::Blocks
